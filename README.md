@@ -5,7 +5,8 @@ In this video, we will create a full COVID-19 Tracker. We're going to use React,
 
 By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
 
-API used: https://covid19.mathdro.id/api
+API used: https://covid19.mathdro.id/api , https://covid19api.com/
+Live demo :https://compassionate-payne-85a8c5.netlify.app/
 
 Setup:
 - run ```npm i && npm start```
