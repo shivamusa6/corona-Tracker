@@ -1,6 +1,7 @@
 # Introduction 
 
 We're going to use React, Charts.JS and Material UI.
+This App was made for learning basic React 
 
 
 API used: https://covid19.mathdro.id/api , https://covid19api.com/
